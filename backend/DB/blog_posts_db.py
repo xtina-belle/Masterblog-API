@@ -1,7 +1,7 @@
 import dataclasses
 import json
 
-from backend.DB.post_dto import PostDto
+from DB.post_dto import PostDto
 
 
 class BlogPostsDB:

@@ -115,7 +115,7 @@ def search():
     for key, value in request.args.items():
         for post in blog_posts_db.get_blog_posts():
             post = dataclasses.asdict(post)
-            if key in post and value in post[key].lower():
+            if key in post and value.lower() in post[key].lower():
                 if post in result:
                     continue
                 result.append(post)
