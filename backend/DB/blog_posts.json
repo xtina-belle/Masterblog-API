@@ -1,0 +1,58 @@
+[
+    {
+        "id_": 1,
+        "author": "John Doe",
+        "title": "First Post",
+        "content": "This is my first post.",
+        "date": "2023-07-10",
+        "like": 2
+    },
+    {
+        "id_": 2,
+        "author": "Jane Doe",
+        "title": "Second Post",
+        "content": "This is another post.",
+        "date": "2023-07-10",
+        "like": 1
+    },
+    {
+        "id_": 3,
+        "author": "Joe Doe",
+        "title": "Happy today",
+        "content": "Today is the the best day!!",
+        "date": "2023-07-10",
+        "like": 4
+    },
+    {
+        "id_": 6,
+        "author": "Joe Doe",
+        "title": "Hey",
+        "content": "Hello, everyone!",
+        "date": "2023-07-10",
+        "like": 3
+    },
+    {
+        "id_": 7,
+        "author": "Your name",
+        "title": "yo",
+        "content": "I did it again! and again!",
+        "date": "2023-07-10",
+        "like": 1
+    },
+    {
+        "id_": 8,
+        "author": "Your name",
+        "title": "girl",
+        "content": "you'll be a women soon",
+        "date": "2023-07-11",
+        "like": 7
+    },
+    {
+        "id_": 9,
+        "author": "Your name",
+        "title": "Amit",
+        "content": "i'm here \ud83d\udc4b\ud83c\udffc",
+        "date": "2023-07-11",
+        "like": 9
+    }
+]

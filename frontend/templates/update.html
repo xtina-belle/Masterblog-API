@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Update Post</title>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Update Post</h1>
+        <div id="post-container">
+            <!-- Blog post will backend inserted here by JavaScript -->
+            </div>
+    </div>
+    <script src="{{ url_for('static', filename='update.js') }}"></script>
+</body>
+</html>
